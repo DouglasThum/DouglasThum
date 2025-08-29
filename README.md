@@ -1,4 +1,8 @@
-## Hi there 👋
+### Olá! 👋
+
+###### Sobre o Douglas
+Desde 2022 venho desenvolvendo projetos, focados na linguagem Java, através de cursos na EBAC e Udemy. Durante meus cursos,  desenvolvi projetos focados em back-end, aplicando conceitos como orientação orientada a objetos, testes unitarios e de integração, tratamento de exceções e aplicações monoloticas e microserviços. Durente meu estudo, utilizei tecnologias como banco de dados SQL e não relacionais, JPA, gerenciador de dependências (Maven) e Springboot Framework
+
 
 <!--
 **DouglasThum/DouglasThum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
