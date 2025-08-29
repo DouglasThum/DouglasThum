@@ -11,6 +11,10 @@ Desde 2022 venho desenvolvendo projetos, focados na linguagem Java, através de 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasThum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/douglas-toliveira/)
+
 <!--
 **DouglasThum/DouglasThum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
